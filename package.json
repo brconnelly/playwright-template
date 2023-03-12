@@ -1,0 +1,21 @@
+{
+  "name": "playwright-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brconnelly/playwright-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brconnelly/playwright-template/issues"
+  },
+  "homepage": "https://github.com/brconnelly/playwright-template#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.31.2"
+  }
+}
